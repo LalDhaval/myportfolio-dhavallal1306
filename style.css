@@ -173,6 +173,10 @@ header .navbar ul li a:hover{
     color: var(--yellow);
 }
 
+.home h3 span{
+    color: var(--yellow);
+}
+
 .home p{
     font-size: 2rem;
     color: #eee;
